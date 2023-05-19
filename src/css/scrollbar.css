@@ -1,0 +1,17 @@
+*::-webkit-scrollbar{
+    width: 12px;
+}
+*::-webkit-scrollbar-thumb{
+    background-color: #582965;
+    border-radius: 10px;
+    border: 2px solid #0f0f0f;
+}
+
+.modo_escuro::-webkit-scrollbar{
+    width: 12px;
+}
+.modo_escuro::-webkit-scrollbar-thumb{
+    background-color: #2F4F4F;
+    border-radius: 10px;
+    border: 2px solid #0f0f0f;
+}
